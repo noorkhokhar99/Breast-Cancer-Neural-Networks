@@ -33,7 +33,7 @@ For more information, [see](https://en.wikipedia.org/wiki/Artificial_neural_netw
 
 ### Acuracy ~ 94%
 
-<img src="">
+<img src="https://youtu.be/1Gr3nIuz2zE">
 
 ### Execution
 To run the code, type "cancer detection.py"
