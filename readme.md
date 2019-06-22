@@ -36,9 +36,9 @@ For more information, [see](https://en.wikipedia.org/wiki/Artificial_neural_netw
 <img src="">
 
 ### Execution
-To run the code, type `python B_Cancer_nn.py`
+To run the code, type "cancer detection.py"
 
 ```
-python B_Cancer_nn.py
+python cancer detection.py
 ```
 
